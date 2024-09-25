@@ -1,0 +1,63 @@
+/*Abdulmohsin Mustafa Ageel
+2036815
+CS1
+September 2024*/
+functions {
+    position: absolute;
+    top: 95px;
+    left: 20px;
+    z-index: 2;
+    width: 97%;
+    height: 60%;
+    padding: 3px;
+}
+
+service {
+    float: left;
+}
+
+service a {
+    display: block;
+    width: 424px;
+    height: 410px;
+    z-index: 3;
+    padding: 10px;
+    margin: 8px;
+    margin-left: 34px;
+    border: 1px solid #000000;
+    color: black;
+    background-color: #acf5ff;
+    border-radius: 2%;
+    box-shadow: 4px 7px 12px 1px #717171;
+}
+
+h2 {
+    text-align: center;
+}
+
+img#Adoption_ID {
+    position: absolute;
+    top: 75%;
+    left: 14%;
+    z-index: 2;
+    width: 90px;
+    height: 90px;
+}
+
+img#ProvideABetterHome_ID {
+    position: absolute;
+    top: 77%;
+    left: 47%;
+    z-index: 2;
+    width: 90px;
+    height: 90px;
+}
+
+img#IAmLost_ID {
+    position: absolute;
+    top: 75%;
+    left: 80%;
+    z-index: 2;
+    width: 90px;
+    height: 90px;
+}
